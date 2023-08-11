@@ -1,0 +1,1 @@
+https://www.inegi.org.mx/app/api/denue/v1/consulta/BuscarEntidad/FARMACIA/08/1/100000/7646490d-d12a-44d0-ad5d-03c174e32d5d 
